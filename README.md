@@ -1,2 +1,2 @@
-# code_education
-Chalenges and sources repository to Code Education School
+# Full Cycle - Code.Education
+Chalenges and sources repository from Code.Education
